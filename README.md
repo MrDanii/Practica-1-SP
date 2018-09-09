@@ -1,14 +1,14 @@
 # Practica-1-SP
 
-##Sistema Alertizador Salvaguarda Humano-Coche
+## Sistema Alertizador Salvaguarda Humano-Coche
 
-##Introducción
+## Introducción
 
->El presente prototipo, simula el funcionamiento y la interacción entre un semáforo peatonal
+> El presente prototipo, simula el funcionamiento y la interacción entre un semáforo peatonal
 y un semáforo de automóviles. esta interacción estará dada por medio de un botón/interruptor 
 encargado de mandar la solicitud al semáforo, para que el peatón pueda cruzar
 
-##Materiales utilizados
+## Materiales utilizados
 
 * Arduino UNO
 * Diodos LED: verdes (2), amarillos (1), rojos (2)
